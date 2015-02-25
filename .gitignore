@@ -9,7 +9,8 @@
 !Development/Src/DrumOut/*/*
 !UDKGame/
 !UDKGame/Content/
-!UDKGame/Content/zGameTest.upk
 !UDKGame/Content/DrumOut/
 !UDKGame/Content/DrumOut/*
 !UDKGame/Content/DrumOut/*/*
+!UDKGame/Config/
+!UDKGame/Config/DefaultEngine.ini
