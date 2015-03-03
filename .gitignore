@@ -1,0 +1,9 @@
+# ignore everything
+Saved/
+Saved/*
+Saved/*.*
+Intermediate/
+Intermediate/*
+Intermediate/*.*
+
+# except those files & folders
