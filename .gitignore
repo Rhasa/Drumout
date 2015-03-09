@@ -1,9 +1,16 @@
-# ignore everything
-Saved/
-Saved/*
-Saved/*.*
-Intermediate/
-Intermediate/*
-Intermediate/*.*
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.xcodeproj
+*.sublime-*
 
-# except those files & folders
+/Saved/**
+/Intermediate/**
+/Plugins/**/Intermediate/**
+/Plugins/**/Binaries/**
+/Binaries/**
+/DerivedDataCache/**
+
+**.generated.h
+**.response
