@@ -1,6 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D50F7E63-4FC8-9F87-1ACD-7286C0CF237C}",
+	"EngineAssociation": "4.7",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DrumOut",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
